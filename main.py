@@ -2,7 +2,7 @@ import pandas as pd
 import warnings
 warnings.filterwarnings("ignore")
 afr=pd.read_csv("africa.csv")
-path="API_SH.DYN.AIDS.ZS_DS2_en_csv_v2_9.csv"
+path="API_SP.DYN.LE00.IN_DS2_en_csv_v2_107.csv"
 lex0=pd.read_csv(path,skiprows=4)
 pop0=pd.read_csv("API_SP.POP.TOTL_DS2_en_csv_v2_85.csv",skiprows=4)
 lex0["land"]=lex0["Country Name"]
@@ -54,22 +54,23 @@ for el in y_p:
 del ges["land"]
 del ges["prod"]
 melted=pd.melt(ges,id_vars=["region","country"],value_vars=y_c)
-melted["hiv"]=round(melted["value"],2)
+melted["lex"]=round(melted["value"],2)
 melted["year"]=melted["variable"]
 del melted["value"]
 del melted["variable"]
-melted=melted.sort_values(by=["region","country","year"])
-melted=melted[["region","country","year","hiv"]]
+
+melted=melted[["region","country","year","lex"]]
 sub=melted[melted["region"]==melted["country"]]
 del sub["country"]
-sub["hiv_"]=sub["hiv"]
-del sub["hiv"]
+sub["lex_"]=sub["lex"]
+del sub["lex"]
 melted=pd.merge(melted,sub,on=["region","year"],how="right")
 for i in range(len(melted)):
-  if pd.isnull(melted.loc[i,"hiv"]):
-      melted.loc[i,"hiv"]=melted.loc[i,"hiv_"]
-del melted["hiv_"]
-melted.to_csv("melted.csv",index=False)
+  if pd.isnull(melted.loc[i,"lex"]):
+      melted.loc[i,"lex"]=melted.loc[i,"lex_"]
+del melted["lex_"]
+melted=melted.sort_values(by=["region","country","year"])
+melted.to_csv("lex.csv",index=False)
 
 
    
