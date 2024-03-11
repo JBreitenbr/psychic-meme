@@ -1,0 +1,628 @@
+region,country,year,hiv,hiv_
+Africa,Africa,2011,3.07,3.07
+Africa,Africa,2012,3.05,3.05
+Africa,Africa,2013,3.02,3.02
+Africa,Africa,2014,3.0,3.0
+Africa,Africa,2015,2.94,2.94
+Africa,Africa,2016,2.91,2.91
+Africa,Africa,2017,2.85,2.85
+Africa,Africa,2018,2.78,2.78
+Africa,Africa,2019,2.71,2.71
+Africa,Africa,2020,2.64,2.64
+Africa,Africa,2021,2.55,2.55
+Eastern Africa,Burundi,2011,1.5,4.09
+Eastern Africa,Comoros,2011,0.1,4.09
+Eastern Africa,Djibouti,2011,1.7,4.09
+Eastern Africa,Eastern Africa,2011,4.09,4.09
+Eastern Africa,Eritrea,2011,0.8,4.09
+Eastern Africa,Ethiopia,2011,1.3,4.09
+Eastern Africa,Kenya,2011,5.6,4.09
+Eastern Africa,Madagascar,2011,0.1,4.09
+Eastern Africa,Malawi,2011,10.6,4.09
+Eastern Africa,Mauritius,2011,1.5,4.09
+Eastern Africa,Mozambique,2011,4.09,4.09
+Eastern Africa,Rwanda,2011,3.3,4.09
+Eastern Africa,Seychelles,2011,4.09,4.09
+Eastern Africa,Somalia,2011,0.2,4.09
+Eastern Africa,South Sudan,2011,1.9,4.09
+Eastern Africa,Tanzania,2011,5.3,4.09
+Eastern Africa,Uganda,2011,6.3,4.09
+Eastern Africa,Zambia,2011,13.1,4.09
+Eastern Africa,Zimbabwe,2011,15.2,4.09
+Eastern Africa,Burundi,2012,1.5,4.04
+Eastern Africa,Comoros,2012,0.1,4.04
+Eastern Africa,Djibouti,2012,1.6,4.04
+Eastern Africa,Eastern Africa,2012,4.04,4.04
+Eastern Africa,Eritrea,2012,0.8,4.04
+Eastern Africa,Ethiopia,2012,1.3,4.04
+Eastern Africa,Kenya,2012,5.5,4.04
+Eastern Africa,Madagascar,2012,0.2,4.04
+Eastern Africa,Malawi,2012,10.4,4.04
+Eastern Africa,Mauritius,2012,1.5,4.04
+Eastern Africa,Mozambique,2012,4.04,4.04
+Eastern Africa,Rwanda,2012,3.2,4.04
+Eastern Africa,Seychelles,2012,4.04,4.04
+Eastern Africa,Somalia,2012,0.2,4.04
+Eastern Africa,South Sudan,2012,1.9,4.04
+Eastern Africa,Tanzania,2012,5.2,4.04
+Eastern Africa,Uganda,2012,6.2,4.04
+Eastern Africa,Zambia,2012,13.0,4.04
+Eastern Africa,Zimbabwe,2012,14.9,4.04
+Eastern Africa,Burundi,2013,1.4,3.96
+Eastern Africa,Comoros,2013,0.1,3.96
+Eastern Africa,Djibouti,2013,1.4,3.96
+Eastern Africa,Eastern Africa,2013,3.96,3.96
+Eastern Africa,Eritrea,2013,0.8,3.96
+Eastern Africa,Ethiopia,2013,1.2,3.96
+Eastern Africa,Kenya,2013,5.3,3.96
+Eastern Africa,Madagascar,2013,0.2,3.96
+Eastern Africa,Malawi,2013,10.2,3.96
+Eastern Africa,Mauritius,2013,1.6,3.96
+Eastern Africa,Mozambique,2013,3.96,3.96
+Eastern Africa,Rwanda,2013,3.1,3.96
+Eastern Africa,Seychelles,2013,3.96,3.96
+Eastern Africa,Somalia,2013,0.1,3.96
+Eastern Africa,South Sudan,2013,1.9,3.96
+Eastern Africa,Tanzania,2013,5.2,3.96
+Eastern Africa,Uganda,2013,6.2,3.96
+Eastern Africa,Zambia,2013,12.9,3.96
+Eastern Africa,Zimbabwe,2013,14.7,3.96
+Eastern Africa,Burundi,2014,1.3,3.91
+Eastern Africa,Comoros,2014,0.1,3.91
+Eastern Africa,Djibouti,2014,1.3,3.91
+Eastern Africa,Eastern Africa,2014,3.91,3.91
+Eastern Africa,Eritrea,2014,0.7,3.91
+Eastern Africa,Ethiopia,2014,1.2,3.91
+Eastern Africa,Kenya,2014,5.2,3.91
+Eastern Africa,Madagascar,2014,0.2,3.91
+Eastern Africa,Malawi,2014,10.0,3.91
+Eastern Africa,Mauritius,2014,1.6,3.91
+Eastern Africa,Mozambique,2014,3.91,3.91
+Eastern Africa,Rwanda,2014,3.1,3.91
+Eastern Africa,Seychelles,2014,3.91,3.91
+Eastern Africa,Somalia,2014,0.1,3.91
+Eastern Africa,South Sudan,2014,1.9,3.91
+Eastern Africa,Tanzania,2014,5.2,3.91
+Eastern Africa,Uganda,2014,6.1,3.91
+Eastern Africa,Zambia,2014,12.8,3.91
+Eastern Africa,Zimbabwe,2014,14.5,3.91
+Eastern Africa,Burundi,2015,1.3,3.8
+Eastern Africa,Comoros,2015,0.1,3.8
+Eastern Africa,Djibouti,2015,1.2,3.8
+Eastern Africa,Eastern Africa,2015,3.8,3.8
+Eastern Africa,Eritrea,2015,0.7,3.8
+Eastern Africa,Ethiopia,2015,1.1,3.8
+Eastern Africa,Kenya,2015,5.0,3.8
+Eastern Africa,Madagascar,2015,0.2,3.8
+Eastern Africa,Malawi,2015,9.7,3.8
+Eastern Africa,Mauritius,2015,1.5,3.8
+Eastern Africa,Mozambique,2015,3.8,3.8
+Eastern Africa,Rwanda,2015,3.0,3.8
+Eastern Africa,Seychelles,2015,3.8,3.8
+Eastern Africa,Somalia,2015,0.1,3.8
+Eastern Africa,South Sudan,2015,1.9,3.8
+Eastern Africa,Tanzania,2015,5.1,3.8
+Eastern Africa,Uganda,2015,6.0,3.8
+Eastern Africa,Zambia,2015,12.6,3.8
+Eastern Africa,Zimbabwe,2015,14.2,3.8
+Eastern Africa,Burundi,2016,1.2,3.75
+Eastern Africa,Comoros,2016,0.1,3.75
+Eastern Africa,Djibouti,2016,1.1,3.75
+Eastern Africa,Eastern Africa,2016,3.75,3.75
+Eastern Africa,Eritrea,2016,0.7,3.75
+Eastern Africa,Ethiopia,2016,1.1,3.75
+Eastern Africa,Kenya,2016,4.9,3.75
+Eastern Africa,Madagascar,2016,0.2,3.75
+Eastern Africa,Malawi,2016,9.5,3.75
+Eastern Africa,Mauritius,2016,1.5,3.75
+Eastern Africa,Mozambique,2016,3.75,3.75
+Eastern Africa,Rwanda,2016,2.9,3.75
+Eastern Africa,Seychelles,2016,3.75,3.75
+Eastern Africa,Somalia,2016,0.1,3.75
+Eastern Africa,South Sudan,2016,2.0,3.75
+Eastern Africa,Tanzania,2016,5.1,3.75
+Eastern Africa,Uganda,2016,5.9,3.75
+Eastern Africa,Zambia,2016,12.4,3.75
+Eastern Africa,Zimbabwe,2016,13.8,3.75
+Eastern Africa,Burundi,2017,1.2,3.65
+Eastern Africa,Comoros,2017,0.1,3.65
+Eastern Africa,Djibouti,2017,1.0,3.65
+Eastern Africa,Eastern Africa,2017,3.65,3.65
+Eastern Africa,Eritrea,2017,0.6,3.65
+Eastern Africa,Ethiopia,2017,1.0,3.65
+Eastern Africa,Kenya,2017,4.7,3.65
+Eastern Africa,Madagascar,2017,0.3,3.65
+Eastern Africa,Malawi,2017,9.2,3.65
+Eastern Africa,Mauritius,2017,1.5,3.65
+Eastern Africa,Mozambique,2017,3.65,3.65
+Eastern Africa,Rwanda,2017,2.8,3.65
+Eastern Africa,Seychelles,2017,3.65,3.65
+Eastern Africa,Somalia,2017,0.1,3.65
+Eastern Africa,South Sudan,2017,2.0,3.65
+Eastern Africa,Tanzania,2017,5.0,3.65
+Eastern Africa,Uganda,2017,5.8,3.65
+Eastern Africa,Zambia,2017,12.2,3.65
+Eastern Africa,Zimbabwe,2017,13.4,3.65
+Eastern Africa,Burundi,2018,1.1,3.56
+Eastern Africa,Comoros,2018,0.1,3.56
+Eastern Africa,Djibouti,2018,0.9,3.56
+Eastern Africa,Eastern Africa,2018,3.56,3.56
+Eastern Africa,Eritrea,2018,0.6,3.56
+Eastern Africa,Ethiopia,2018,1.0,3.56
+Eastern Africa,Kenya,2018,4.5,3.56
+Eastern Africa,Madagascar,2018,0.3,3.56
+Eastern Africa,Malawi,2018,8.8,3.56
+Eastern Africa,Mauritius,2018,1.5,3.56
+Eastern Africa,Mozambique,2018,3.56,3.56
+Eastern Africa,Rwanda,2018,2.7,3.56
+Eastern Africa,Seychelles,2018,3.56,3.56
+Eastern Africa,Somalia,2018,0.1,3.56
+Eastern Africa,South Sudan,2018,2.0,3.56
+Eastern Africa,Tanzania,2018,4.9,3.56
+Eastern Africa,Uganda,2018,5.7,3.56
+Eastern Africa,Zambia,2018,12.0,3.56
+Eastern Africa,Zimbabwe,2018,13.0,3.56
+Eastern Africa,Burundi,2019,1.0,3.43
+Eastern Africa,Comoros,2019,0.1,3.43
+Eastern Africa,Djibouti,2019,0.9,3.43
+Eastern Africa,Eastern Africa,2019,3.43,3.43
+Eastern Africa,Eritrea,2019,0.6,3.43
+Eastern Africa,Ethiopia,2019,0.9,3.43
+Eastern Africa,Kenya,2019,4.4,3.43
+Eastern Africa,Madagascar,2019,0.3,3.43
+Eastern Africa,Malawi,2019,8.4,3.43
+Eastern Africa,Mauritius,2019,1.4,3.43
+Eastern Africa,Mozambique,2019,3.43,3.43
+Eastern Africa,Rwanda,2019,2.6,3.43
+Eastern Africa,Seychelles,2019,3.43,3.43
+Eastern Africa,Somalia,2019,0.1,3.43
+Eastern Africa,South Sudan,2019,2.0,3.43
+Eastern Africa,Tanzania,2019,4.8,3.43
+Eastern Africa,Uganda,2019,5.5,3.43
+Eastern Africa,Zambia,2019,11.6,3.43
+Eastern Africa,Zimbabwe,2019,12.5,3.43
+Eastern Africa,Burundi,2020,1.0,3.32
+Eastern Africa,Comoros,2020,0.1,3.32
+Eastern Africa,Djibouti,2020,0.8,3.32
+Eastern Africa,Eastern Africa,2020,3.32,3.32
+Eastern Africa,Eritrea,2020,0.5,3.32
+Eastern Africa,Ethiopia,2020,0.9,3.32
+Eastern Africa,Kenya,2020,4.2,3.32
+Eastern Africa,Madagascar,2020,0.3,3.32
+Eastern Africa,Malawi,2020,8.1,3.32
+Eastern Africa,Mauritius,2020,1.4,3.32
+Eastern Africa,Mozambique,2020,3.32,3.32
+Eastern Africa,Rwanda,2020,2.5,3.32
+Eastern Africa,Seychelles,2020,3.32,3.32
+Eastern Africa,Somalia,2020,0.1,3.32
+Eastern Africa,South Sudan,2020,2.1,3.32
+Eastern Africa,Tanzania,2020,4.6,3.32
+Eastern Africa,Uganda,2020,5.4,3.32
+Eastern Africa,Zambia,2020,11.2,3.32
+Eastern Africa,Zimbabwe,2020,12.1,3.32
+Eastern Africa,Burundi,2021,0.9,3.18
+Eastern Africa,Comoros,2021,0.1,3.18
+Eastern Africa,Djibouti,2021,0.7,3.18
+Eastern Africa,Eastern Africa,2021,3.18,3.18
+Eastern Africa,Eritrea,2021,0.5,3.18
+Eastern Africa,Ethiopia,2021,0.8,3.18
+Eastern Africa,Kenya,2021,4.0,3.18
+Eastern Africa,Madagascar,2021,0.4,3.18
+Eastern Africa,Malawi,2021,7.7,3.18
+Eastern Africa,Mauritius,2021,1.4,3.18
+Eastern Africa,Mozambique,2021,3.18,3.18
+Eastern Africa,Rwanda,2021,2.3,3.18
+Eastern Africa,Seychelles,2021,3.18,3.18
+Eastern Africa,Somalia,2021,0.1,3.18
+Eastern Africa,South Sudan,2021,2.1,3.18
+Eastern Africa,Tanzania,2021,4.5,3.18
+Eastern Africa,Uganda,2021,5.2,3.18
+Eastern Africa,Zambia,2021,10.8,3.18
+Eastern Africa,Zimbabwe,2021,11.6,3.18
+Middle Africa, Congo,2011,3.5,1.9
+Middle Africa,Angola,2011,1.9,1.9
+Middle Africa,Cameroon,2011,4.2,1.9
+Middle Africa,Chad,2011,1.6,1.9
+Middle Africa,Democratic Republic of the Congo,2011,1.1,1.9
+Middle Africa,Gabon,2011,4.3,1.9
+Middle Africa,Middle Africa,2011,1.9,1.9
+Middle Africa,Sao Tome and Principe,2011,1.1,1.9
+Middle Africa, Congo,2012,3.5,1.87
+Middle Africa,Angola,2012,1.9,1.87
+Middle Africa,Cameroon,2012,4.1,1.87
+Middle Africa,Chad,2012,1.5,1.87
+Middle Africa,Democratic Republic of the Congo,2012,1.1,1.87
+Middle Africa,Gabon,2012,4.1,1.87
+Middle Africa,Middle Africa,2012,1.87,1.87
+Middle Africa,Sao Tome and Principe,2012,1.0,1.87
+Middle Africa, Congo,2013,3.5,1.8
+Middle Africa,Angola,2013,1.9,1.8
+Middle Africa,Cameroon,2013,4.0,1.8
+Middle Africa,Chad,2013,1.5,1.8
+Middle Africa,Democratic Republic of the Congo,2013,1.0,1.8
+Middle Africa,Gabon,2013,4.0,1.8
+Middle Africa,Middle Africa,2013,1.8,1.8
+Middle Africa,Sao Tome and Principe,2013,0.9,1.8
+Middle Africa, Congo,2014,3.5,1.75
+Middle Africa,Angola,2014,1.9,1.75
+Middle Africa,Cameroon,2014,3.8,1.75
+Middle Africa,Chad,2014,1.4,1.75
+Middle Africa,Democratic Republic of the Congo,2014,1.0,1.75
+Middle Africa,Gabon,2014,3.9,1.75
+Middle Africa,Middle Africa,2014,1.75,1.75
+Middle Africa,Sao Tome and Principe,2014,0.8,1.75
+Middle Africa, Congo,2015,3.5,1.68
+Middle Africa,Angola,2015,1.9,1.68
+Middle Africa,Cameroon,2015,3.7,1.68
+Middle Africa,Chad,2015,1.4,1.68
+Middle Africa,Democratic Republic of the Congo,2015,0.9,1.68
+Middle Africa,Gabon,2015,3.8,1.68
+Middle Africa,Middle Africa,2015,1.68,1.68
+Middle Africa,Sao Tome and Principe,2015,0.8,1.68
+Middle Africa, Congo,2016,3.6,1.64
+Middle Africa,Angola,2016,1.8,1.64
+Middle Africa,Cameroon,2016,3.6,1.64
+Middle Africa,Chad,2016,1.3,1.64
+Middle Africa,Democratic Republic of the Congo,2016,0.9,1.64
+Middle Africa,Gabon,2016,3.7,1.64
+Middle Africa,Middle Africa,2016,1.64,1.64
+Middle Africa,Sao Tome and Principe,2016,0.7,1.64
+Middle Africa, Congo,2017,3.6,1.61
+Middle Africa,Angola,2017,1.8,1.61
+Middle Africa,Cameroon,2017,3.4,1.61
+Middle Africa,Chad,2017,1.3,1.61
+Middle Africa,Democratic Republic of the Congo,2017,0.9,1.61
+Middle Africa,Gabon,2017,3.5,1.61
+Middle Africa,Middle Africa,2017,1.61,1.61
+Middle Africa,Sao Tome and Principe,2017,0.7,1.61
+Middle Africa, Congo,2018,3.6,1.51
+Middle Africa,Angola,2018,1.7,1.51
+Middle Africa,Cameroon,2018,3.3,1.51
+Middle Africa,Chad,2018,1.2,1.51
+Middle Africa,Democratic Republic of the Congo,2018,0.8,1.51
+Middle Africa,Gabon,2018,3.4,1.51
+Middle Africa,Middle Africa,2018,1.51,1.51
+Middle Africa,Sao Tome and Principe,2018,0.6,1.51
+Middle Africa, Congo,2019,3.7,1.48
+Middle Africa,Angola,2019,1.7,1.48
+Middle Africa,Cameroon,2019,3.1,1.48
+Middle Africa,Chad,2019,1.2,1.48
+Middle Africa,Democratic Republic of the Congo,2019,0.8,1.48
+Middle Africa,Gabon,2019,3.3,1.48
+Middle Africa,Middle Africa,2019,1.48,1.48
+Middle Africa,Sao Tome and Principe,2019,0.6,1.48
+Middle Africa, Congo,2020,3.8,1.43
+Middle Africa,Angola,2020,1.6,1.43
+Middle Africa,Cameroon,2020,3.0,1.43
+Middle Africa,Chad,2020,1.1,1.43
+Middle Africa,Democratic Republic of the Congo,2020,0.8,1.43
+Middle Africa,Gabon,2020,3.1,1.43
+Middle Africa,Middle Africa,2020,1.43,1.43
+Middle Africa,Sao Tome and Principe,2020,0.5,1.43
+Middle Africa, Congo,2021,3.8,1.36
+Middle Africa,Angola,2021,1.6,1.36
+Middle Africa,Cameroon,2021,2.9,1.36
+Middle Africa,Chad,2021,1.1,1.36
+Middle Africa,Democratic Republic of the Congo,2021,0.7,1.36
+Middle Africa,Gabon,2021,3.0,1.36
+Middle Africa,Middle Africa,2021,1.36,1.36
+Middle Africa,Sao Tome and Principe,2021,0.5,1.36
+Northern Africa,Algeria,2011,0.1,0.12
+Northern Africa,Egypt,2011,0.1,0.12
+Northern Africa,Libya,2011,0.1,0.12
+Northern Africa,Morocco,2011,0.1,0.12
+Northern Africa,Northern Africa,2011,0.12,0.12
+Northern Africa,Sudan,2011,0.2,0.12
+Northern Africa,Tunisia,2011,0.1,0.12
+Northern Africa,Algeria,2012,0.1,0.12
+Northern Africa,Egypt,2012,0.1,0.12
+Northern Africa,Libya,2012,0.1,0.12
+Northern Africa,Morocco,2012,0.1,0.12
+Northern Africa,Northern Africa,2012,0.12,0.12
+Northern Africa,Sudan,2012,0.2,0.12
+Northern Africa,Tunisia,2012,0.1,0.12
+Northern Africa,Algeria,2013,0.1,0.12
+Northern Africa,Egypt,2013,0.1,0.12
+Northern Africa,Libya,2013,0.1,0.12
+Northern Africa,Morocco,2013,0.1,0.12
+Northern Africa,Northern Africa,2013,0.12,0.12
+Northern Africa,Sudan,2013,0.2,0.12
+Northern Africa,Tunisia,2013,0.1,0.12
+Northern Africa,Algeria,2014,0.1,0.12
+Northern Africa,Egypt,2014,0.1,0.12
+Northern Africa,Libya,2014,0.1,0.12
+Northern Africa,Morocco,2014,0.1,0.12
+Northern Africa,Northern Africa,2014,0.12,0.12
+Northern Africa,Sudan,2014,0.2,0.12
+Northern Africa,Tunisia,2014,0.1,0.12
+Northern Africa,Algeria,2015,0.1,0.12
+Northern Africa,Egypt,2015,0.1,0.12
+Northern Africa,Libya,2015,0.1,0.12
+Northern Africa,Morocco,2015,0.1,0.12
+Northern Africa,Northern Africa,2015,0.12,0.12
+Northern Africa,Sudan,2015,0.2,0.12
+Northern Africa,Tunisia,2015,0.1,0.12
+Northern Africa,Algeria,2016,0.1,0.12
+Northern Africa,Egypt,2016,0.1,0.12
+Northern Africa,Libya,2016,0.2,0.12
+Northern Africa,Morocco,2016,0.1,0.12
+Northern Africa,Northern Africa,2016,0.12,0.12
+Northern Africa,Sudan,2016,0.2,0.12
+Northern Africa,Tunisia,2016,0.1,0.12
+Northern Africa,Algeria,2017,0.1,0.12
+Northern Africa,Egypt,2017,0.1,0.12
+Northern Africa,Libya,2017,0.2,0.12
+Northern Africa,Morocco,2017,0.1,0.12
+Northern Africa,Northern Africa,2017,0.12,0.12
+Northern Africa,Sudan,2017,0.2,0.12
+Northern Africa,Tunisia,2017,0.1,0.12
+Northern Africa,Algeria,2018,0.1,0.12
+Northern Africa,Egypt,2018,0.1,0.12
+Northern Africa,Libya,2018,0.2,0.12
+Northern Africa,Morocco,2018,0.1,0.12
+Northern Africa,Northern Africa,2018,0.12,0.12
+Northern Africa,Sudan,2018,0.2,0.12
+Northern Africa,Tunisia,2018,0.1,0.12
+Northern Africa,Algeria,2019,0.1,0.12
+Northern Africa,Egypt,2019,0.1,0.12
+Northern Africa,Libya,2019,0.2,0.12
+Northern Africa,Morocco,2019,0.1,0.12
+Northern Africa,Northern Africa,2019,0.12,0.12
+Northern Africa,Sudan,2019,0.2,0.12
+Northern Africa,Tunisia,2019,0.1,0.12
+Northern Africa,Algeria,2020,0.1,0.1
+Northern Africa,Egypt,2020,0.1,0.1
+Northern Africa,Libya,2020,0.2,0.1
+Northern Africa,Morocco,2020,0.1,0.1
+Northern Africa,Northern Africa,2020,0.1,0.1
+Northern Africa,Sudan,2020,0.1,0.1
+Northern Africa,Tunisia,2020,0.1,0.1
+Northern Africa,Algeria,2021,0.1,0.1
+Northern Africa,Egypt,2021,0.1,0.1
+Northern Africa,Libya,2021,0.2,0.1
+Northern Africa,Morocco,2021,0.1,0.1
+Northern Africa,Northern Africa,2021,0.1,0.1
+Northern Africa,Sudan,2021,0.1,0.1
+Northern Africa,Tunisia,2021,0.1,0.1
+Southern Africa,Botswana,2011,23.0,17.37
+Southern Africa,Eswatini,2011,28.2,17.37
+Southern Africa,Lesotho,2011,24.4,17.37
+Southern Africa,Namibia,2011,13.5,17.37
+Southern Africa,South Africa,2011,16.8,17.37
+Southern Africa,Southern Africa,2011,17.37,17.37
+Southern Africa,Botswana,2012,22.7,17.72
+Southern Africa,Eswatini,2012,28.5,17.72
+Southern Africa,Lesotho,2012,24.6,17.72
+Southern Africa,Namibia,2012,13.4,17.72
+Southern Africa,South Africa,2012,17.2,17.72
+Southern Africa,Southern Africa,2012,17.72,17.72
+Southern Africa,Botswana,2013,22.4,17.98
+Southern Africa,Eswatini,2013,29.0,17.98
+Southern Africa,Lesotho,2013,24.8,17.98
+Southern Africa,Namibia,2013,13.3,17.98
+Southern Africa,South Africa,2013,17.5,17.98
+Southern Africa,Southern Africa,2013,17.98,17.98
+Southern Africa,Botswana,2014,22.0,18.31
+Southern Africa,Eswatini,2014,29.4,18.31
+Southern Africa,Lesotho,2014,24.7,18.31
+Southern Africa,Namibia,2014,13.1,18.31
+Southern Africa,South Africa,2014,17.9,18.31
+Southern Africa,Southern Africa,2014,18.31,18.31
+Southern Africa,Botswana,2015,21.7,18.56
+Southern Africa,Eswatini,2015,29.6,18.56
+Southern Africa,Lesotho,2015,24.6,18.56
+Southern Africa,Namibia,2015,13.1,18.56
+Southern Africa,South Africa,2015,18.2,18.56
+Southern Africa,Southern Africa,2015,18.56,18.56
+Southern Africa,Botswana,2016,21.3,18.7
+Southern Africa,Eswatini,2016,29.8,18.7
+Southern Africa,Lesotho,2016,24.2,18.7
+Southern Africa,Namibia,2016,12.9,18.7
+Southern Africa,South Africa,2016,18.4,18.7
+Southern Africa,Southern Africa,2016,18.7,18.7
+Southern Africa,Botswana,2017,20.9,18.75
+Southern Africa,Eswatini,2017,29.7,18.75
+Southern Africa,Lesotho,2017,23.6,18.75
+Southern Africa,Namibia,2017,12.8,18.75
+Southern Africa,South Africa,2017,18.5,18.75
+Southern Africa,Southern Africa,2017,18.75,18.75
+Southern Africa,Botswana,2018,20.4,18.79
+Southern Africa,Eswatini,2018,29.4,18.79
+Southern Africa,Lesotho,2018,23.0,18.79
+Southern Africa,Namibia,2018,12.6,18.79
+Southern Africa,South Africa,2018,18.6,18.79
+Southern Africa,Southern Africa,2018,18.79,18.79
+Southern Africa,Botswana,2019,19.8,18.73
+Southern Africa,Eswatini,2019,29.1,18.73
+Southern Africa,Lesotho,2019,22.3,18.73
+Southern Africa,Namibia,2019,12.4,18.73
+Southern Africa,South Africa,2019,18.6,18.73
+Southern Africa,Southern Africa,2019,18.73,18.73
+Southern Africa,Botswana,2020,19.2,18.48
+Southern Africa,Eswatini,2020,28.6,18.48
+Southern Africa,Lesotho,2020,21.6,18.48
+Southern Africa,Namibia,2020,12.1,18.48
+Southern Africa,South Africa,2020,18.4,18.48
+Southern Africa,Southern Africa,2020,18.48,18.48
+Southern Africa,Botswana,2021,18.6,18.33
+Southern Africa,Eswatini,2021,27.9,18.33
+Southern Africa,Lesotho,2021,20.9,18.33
+Southern Africa,Namibia,2021,11.8,18.33
+Southern Africa,South Africa,2021,18.3,18.33
+Southern Africa,Southern Africa,2021,18.33,18.33
+Western Africa,Benin,2011,1.2,1.64
+Western Africa,Burkina Faso,2011,1.1,1.64
+Western Africa,Cabo Verde,2011,0.6,1.64
+Western Africa,Cote d'Ivoire,2011,3.5,1.64
+Western Africa,Gambia,2011,1.9,1.64
+Western Africa,Ghana,2011,1.9,1.64
+Western Africa,Guinea,2011,1.7,1.64
+Western Africa,Guinea-Bissau,2011,3.9,1.64
+Western Africa,Liberia,2011,1.6,1.64
+Western Africa,Mauritania,2011,0.5,1.64
+Western Africa,Niger,2011,0.4,1.64
+Western Africa,Nigeria,2011,1.6,1.64
+Western Africa,Senegal,2011,0.6,1.64
+Western Africa,Sierra Leone,2011,1.7,1.64
+Western Africa,Togo,2011,2.7,1.64
+Western Africa,Western Africa,2011,1.64,1.64
+Western Africa,Benin,2012,1.1,1.61
+Western Africa,Burkina Faso,2012,1.0,1.61
+Western Africa,Cabo Verde,2012,0.6,1.61
+Western Africa,Cote d'Ivoire,2012,3.4,1.61
+Western Africa,Gambia,2012,1.9,1.61
+Western Africa,Ghana,2012,1.9,1.61
+Western Africa,Guinea,2012,1.7,1.61
+Western Africa,Guinea-Bissau,2012,3.9,1.61
+Western Africa,Liberia,2012,1.6,1.61
+Western Africa,Mauritania,2012,0.5,1.61
+Western Africa,Niger,2012,0.3,1.61
+Western Africa,Nigeria,2012,1.6,1.61
+Western Africa,Senegal,2012,0.5,1.61
+Western Africa,Sierra Leone,2012,1.7,1.61
+Western Africa,Togo,2012,2.6,1.61
+Western Africa,Western Africa,2012,1.61,1.61
+Western Africa,Benin,2013,1.1,1.59
+Western Africa,Burkina Faso,2013,1.0,1.59
+Western Africa,Cabo Verde,2013,0.6,1.59
+Western Africa,Cote d'Ivoire,2013,3.2,1.59
+Western Africa,Gambia,2013,1.9,1.59
+Western Africa,Ghana,2013,1.9,1.59
+Western Africa,Guinea,2013,1.7,1.59
+Western Africa,Guinea-Bissau,2013,3.8,1.59
+Western Africa,Liberia,2013,1.5,1.59
+Western Africa,Mauritania,2013,0.4,1.59
+Western Africa,Niger,2013,0.3,1.59
+Western Africa,Nigeria,2013,1.6,1.59
+Western Africa,Senegal,2013,0.5,1.59
+Western Africa,Sierra Leone,2013,1.7,1.59
+Western Africa,Togo,2013,2.6,1.59
+Western Africa,Western Africa,2013,1.59,1.59
+Western Africa,Benin,2014,1.1,1.56
+Western Africa,Burkina Faso,2014,0.9,1.56
+Western Africa,Cabo Verde,2014,0.6,1.56
+Western Africa,Cote d'Ivoire,2014,3.0,1.56
+Western Africa,Gambia,2014,1.9,1.56
+Western Africa,Ghana,2014,1.8,1.56
+Western Africa,Guinea,2014,1.7,1.56
+Western Africa,Guinea-Bissau,2014,3.8,1.56
+Western Africa,Liberia,2014,1.4,1.56
+Western Africa,Mauritania,2014,0.4,1.56
+Western Africa,Niger,2014,0.3,1.56
+Western Africa,Nigeria,2014,1.6,1.56
+Western Africa,Senegal,2014,0.5,1.56
+Western Africa,Sierra Leone,2014,1.6,1.56
+Western Africa,Togo,2014,2.5,1.56
+Western Africa,Western Africa,2014,1.56,1.56
+Western Africa,Benin,2015,1.1,1.48
+Western Africa,Burkina Faso,2015,0.9,1.48
+Western Africa,Cabo Verde,2015,0.6,1.48
+Western Africa,Cote d'Ivoire,2015,2.8,1.48
+Western Africa,Gambia,2015,1.9,1.48
+Western Africa,Ghana,2015,1.8,1.48
+Western Africa,Guinea,2015,1.7,1.48
+Western Africa,Guinea-Bissau,2015,3.7,1.48
+Western Africa,Liberia,2015,1.4,1.48
+Western Africa,Mauritania,2015,0.4,1.48
+Western Africa,Niger,2015,0.3,1.48
+Western Africa,Nigeria,2015,1.5,1.48
+Western Africa,Senegal,2015,0.4,1.48
+Western Africa,Sierra Leone,2015,1.6,1.48
+Western Africa,Togo,2015,2.4,1.48
+Western Africa,Western Africa,2015,1.48,1.48
+Western Africa,Benin,2016,1.0,1.45
+Western Africa,Burkina Faso,2016,0.8,1.45
+Western Africa,Cabo Verde,2016,0.6,1.45
+Western Africa,Cote d'Ivoire,2016,2.7,1.45
+Western Africa,Gambia,2016,1.8,1.45
+Western Africa,Ghana,2016,1.8,1.45
+Western Africa,Guinea,2016,1.6,1.45
+Western Africa,Guinea-Bissau,2016,3.6,1.45
+Western Africa,Liberia,2016,1.3,1.45
+Western Africa,Mauritania,2016,0.4,1.45
+Western Africa,Niger,2016,0.2,1.45
+Western Africa,Nigeria,2016,1.5,1.45
+Western Africa,Senegal,2016,0.4,1.45
+Western Africa,Sierra Leone,2016,1.6,1.45
+Western Africa,Togo,2016,2.3,1.45
+Western Africa,Western Africa,2016,1.45,1.45
+Western Africa,Benin,2017,1.0,1.43
+Western Africa,Burkina Faso,2017,0.8,1.43
+Western Africa,Cabo Verde,2017,0.6,1.43
+Western Africa,Cote d'Ivoire,2017,2.5,1.43
+Western Africa,Gambia,2017,1.8,1.43
+Western Africa,Ghana,2017,1.8,1.43
+Western Africa,Guinea,2017,1.6,1.43
+Western Africa,Guinea-Bissau,2017,3.5,1.43
+Western Africa,Liberia,2017,1.2,1.43
+Western Africa,Mauritania,2017,0.4,1.43
+Western Africa,Niger,2017,0.2,1.43
+Western Africa,Nigeria,2017,1.5,1.43
+Western Africa,Senegal,2017,0.4,1.43
+Western Africa,Sierra Leone,2017,1.6,1.43
+Western Africa,Togo,2017,2.2,1.43
+Western Africa,Western Africa,2017,1.43,1.43
+Western Africa,Benin,2018,1.0,1.35
+Western Africa,Burkina Faso,2018,0.7,1.35
+Western Africa,Cabo Verde,2018,0.6,1.35
+Western Africa,Cote d'Ivoire,2018,2.4,1.35
+Western Africa,Gambia,2018,1.8,1.35
+Western Africa,Ghana,2018,1.7,1.35
+Western Africa,Guinea,2018,1.6,1.35
+Western Africa,Guinea-Bissau,2018,3.4,1.35
+Western Africa,Liberia,2018,1.2,1.35
+Western Africa,Mauritania,2018,0.4,1.35
+Western Africa,Niger,2018,0.2,1.35
+Western Africa,Nigeria,2018,1.4,1.35
+Western Africa,Senegal,2018,0.4,1.35
+Western Africa,Sierra Leone,2018,1.5,1.35
+Western Africa,Togo,2018,2.1,1.35
+Western Africa,Western Africa,2018,1.35,1.35
+Western Africa,Benin,2019,0.9,1.32
+Western Africa,Burkina Faso,2019,0.7,1.32
+Western Africa,Cabo Verde,2019,0.6,1.32
+Western Africa,Cote d'Ivoire,2019,2.2,1.32
+Western Africa,Gambia,2019,1.8,1.32
+Western Africa,Ghana,2019,1.7,1.32
+Western Africa,Guinea,2019,1.5,1.32
+Western Africa,Guinea-Bissau,2019,3.3,1.32
+Western Africa,Liberia,2019,1.1,1.32
+Western Africa,Mauritania,2019,0.4,1.32
+Western Africa,Niger,2019,0.2,1.32
+Western Africa,Nigeria,2019,1.4,1.32
+Western Africa,Senegal,2019,0.3,1.32
+Western Africa,Sierra Leone,2019,1.5,1.32
+Western Africa,Togo,2019,2.0,1.32
+Western Africa,Western Africa,2019,1.32,1.32
+Western Africa,Benin,2020,0.9,1.31
+Western Africa,Burkina Faso,2020,0.7,1.31
+Western Africa,Cabo Verde,2020,0.6,1.31
+Western Africa,Cote d'Ivoire,2020,2.1,1.31
+Western Africa,Gambia,2020,1.7,1.31
+Western Africa,Ghana,2020,1.7,1.31
+Western Africa,Guinea,2020,1.5,1.31
+Western Africa,Guinea-Bissau,2020,3.2,1.31
+Western Africa,Liberia,2020,1.1,1.31
+Western Africa,Mauritania,2020,0.3,1.31
+Western Africa,Niger,2020,0.2,1.31
+Western Africa,Nigeria,2020,1.4,1.31
+Western Africa,Senegal,2020,0.3,1.31
+Western Africa,Sierra Leone,2020,1.5,1.31
+Western Africa,Togo,2020,2.0,1.31
+Western Africa,Western Africa,2020,1.31,1.31
+Western Africa,Benin,2021,0.8,1.23
+Western Africa,Burkina Faso,2021,0.6,1.23
+Western Africa,Cabo Verde,2021,0.6,1.23
+Western Africa,Cote d'Ivoire,2021,1.9,1.23
+Western Africa,Gambia,2021,1.7,1.23
+Western Africa,Ghana,2021,1.7,1.23
+Western Africa,Guinea,2021,1.5,1.23
+Western Africa,Guinea-Bissau,2021,3.1,1.23
+Western Africa,Liberia,2021,1.1,1.23
+Western Africa,Mauritania,2021,0.3,1.23
+Western Africa,Niger,2021,0.2,1.23
+Western Africa,Nigeria,2021,1.3,1.23
+Western Africa,Senegal,2021,0.3,1.23
+Western Africa,Sierra Leone,2021,1.4,1.23
+Western Africa,Togo,2021,1.9,1.23
+Western Africa,Western Africa,2021,1.23,1.23
