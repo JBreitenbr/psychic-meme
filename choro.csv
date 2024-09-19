@@ -1,4 +1,4 @@
-name,country,region,happiness_score,gdp_per_capita,social_support,healthy_life_expectancy,freedom_to_make_life_choices,generosity,perceptions_of_corruption,year,Code
+name,Entity,region,happiness_score,gdp_per_capita,social_support,healthy_life_expectancy,freedom_to_make_life_choices,generosity,perceptions_of_corruption,year,Code
 Afghanistan,Afghanistan,South Asia,1.721,0.628,0.0,0.242,0.0,0.091,0.088,2024,AFG
 Jamaica,Jamaica,Latin America and Caribbean,5.842,1.28,1.324,0.567,0.647,0.089,0.028,2024,JAM
 "Moldova, Republic of",Moldova,Central and Eastern Europe,5.816,1.385,1.277,0.542,0.695,0.077,0.044,2024,MDA
