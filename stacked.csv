@@ -1,0 +1,11 @@
+country,region,happiness_score,gdp_per_capita,social_support,healthy_life_expectancy,freedom_to_make_life_choices,generosity,perceptions_of_corruption,year,dystopia_residual
+Italy,Western Europe,5.948,1.25114,1.19777,0.95446,0.26236,0.22823,0.02901,2015,2.025
+Italy,Western Europe,5.977,1.35495,1.04167,0.85102,0.18827,0.16684,0.02556,2016,2.349
+Italy,Western Europe,5.964000225,1.395066619,1.444923282,0.853144348,0.256450713,0.172789648,0.028028091,2017,1.814
+Italy,Western Europe,6.0,1.264,1.501,0.946,0.281,0.137,0.028,2018,1.843
+Italy,Western Europe,6.223,1.294,1.488,1.039,0.231,0.158,0.03,2019,1.983
+Italy,Western Europe,6.38740015,1.236396074,1.347296,1.022504926,0.321305573,0.170266211,0.040145598,2020,2.249
+Italy,Western Europe,6.483,1.393,0.94,0.798,0.379,0.133,0.047,2021,2.793
+Italy,Western Europe,6.467,1.834,1.052,0.801,0.412,0.085,0.059,2022,2.224
+Italy,Western Europe,6.405,1.832,1.365,0.559,0.438,0.097,0.063,2023,2.051
+Italy,Western Europe,6.324,1.8,1.328,0.72,0.513,0.112,0.074,2024,1.777
